@@ -1,0 +1,26 @@
+{
+  "name": "biomedical-researcher",
+  "displayName": "Biomedical Researcher",
+  "version": "0.1.0",
+  "description": "Find and pressure-test a biomedical research topic from scratch, with every source linked and every result written to an Obsidian graph.",
+  "author": {
+    "name": "Faris Alhumaid",
+    "email": "119478313+Fyn2a@users.noreply.github.com"
+  },
+  "license": "MIT",
+  "keywords": ["research", "research-gap", "topic-validation", "biomedical", "obsidian", "pubmed"],
+  "userConfig": {
+    "vault_path": {
+      "type": "directory",
+      "title": "Obsidian vault",
+      "description": "Folder of the Obsidian vault the plugin writes notes into.",
+      "required": true
+    },
+    "notes_folder": {
+      "type": "string",
+      "title": "Notes folder",
+      "description": "Folder inside the vault where the plugin keeps its notes. The plugin only creates, edits and checks notes in this folder.",
+      "default": "Research"
+    }
+  }
+}
