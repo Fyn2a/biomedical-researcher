@@ -16,6 +16,7 @@ Who it's for:
 - **Second, people who already have an idea.** They have a rough topic and maybe a few papers, and want it pressure-tested. This route starts with mining for ideas.
 
 The one thing the plugin can't supply is the field of interest. That has to come from the user.
+<img width="1920" height="1032" alt="Obsidian_gQpdPYchbF" src="https://github.com/user-attachments/assets/b0c22529-c4c9-427b-b90e-4aa3d59b7fd9" />
 
 <hr style="border: 1px solid #D6BCFA">
 
